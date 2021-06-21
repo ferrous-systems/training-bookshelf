@@ -3,17 +3,28 @@
 This file contains a list of all public training materials maintained by Ferrous Systems.
 
 ## Introduction to Rust
-[Repo with assignments](https://github.com/ferrous-systems/teaching-material)
-[Rendered Slides](ferrous-systems.github.io/teaching-material/index.html)
+
+* [Repo with assignments](https://github.com/ferrous-systems/teaching-material)
+* [Rendered Slides](ferrous-systems.github.io/teaching-material/index.html)
+
 ## Embedded Rust Courses for beginners and advanced
 
-[Repo with code templates](https://github.com/ferrous-systems/embedded-trainings-2020)
-[Rendered book](https://embedded-trainings.ferrous-systems.com/)
+* [Repo with code templates](https://github.com/ferrous-systems/embedded-trainings-2020)
+* [Rendered book](https://embedded-trainings.ferrous-systems.com/)
 
 ## Knurling-Sessions
-[knurling-sessions landing page](https://knurling.ferrous-systems.com/sessions/)
+
+* [knurling-sessions landing page](https://knurling.ferrous-systems.com/sessions/)
 
 ## Publicly available recordings of talks by Members of Ferrous Systems
+
+### Florian Gilcher
+
+* [GOTO 2017: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ)
+* [The Power of the "Where" Clause](https://www.youtube.com/watch?v=jSpio0x7024)
+* [GOTO 2019: Rust 2018: Access All Areas](https://www.youtube.com/watch?v=sCSfyQYDImM)
+* [`async/await` with `async-std`](https://www.youtube.com/watch?v=L7X0vpAU-sU)
+* [Async Interview #4 with Niko Matsakis](https://www.youtube.com/watch?v=Ezwd1vKSfCo)
 
 ### James Munns
 
