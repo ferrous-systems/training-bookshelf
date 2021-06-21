@@ -15,20 +15,23 @@ This file contains a list of all public training materials maintained by Ferrous
 
 ## Publicly available recordings of talks by Members of Ferrous Systems
 
+### James Munns
+
+* [Anachro-PC: An Anachronistic PC Architecture](https://www.youtube.com/watch?v=MvcWHmnnMuc)
+* [Rust: Access All Arenas](https://www.youtube.com/watch?v=HiWkMFE8uRE)
+* [Life Before Main](https://www.youtube.com/watch?v=RIHVoNDxNuk)
+* [Getting Something for Nothing](https://www.youtube.com/watch?v=t99L3JHhLc0)
+* [Auxon's Emergence Podcast Ep. 3](https://www.youtube.com/watch?v=SNUklwUi_M4)
 
 ### Lotte Steenbrink
 
-[Lessons Learned From the Rust Ecosystem That Can Be Adopted Elsewhere](https://www.youtube.com/watch?v=MjRWdTyTmYM)
+* [Lessons Learned From the Rust Ecosystem That Can Be Adopted Elsewhere](https://www.youtube.com/watch?v=MjRWdTyTmYM)
+* [Rust for C++ Developers](https://www.youtube.com/watch?v=Xd_qsKEuazo)
 
-[Rust for C++ Developers](https://www.youtube.com/watch?v=Xd_qsKEuazo)
 ### Tanks Transfeld
 
-[Emulating the Teacher's Approving Nod in Teaching Material](https://www.youtube.com/watch?v=NCxSJXD2RHY)
-
-[Building a CO2 Measuring Device with Embedded Rust](https://www.youtube.com/watch?v=HybHkK2P3yI)
-
-
-
+* [Emulating the Teacher's Approving Nod in Teaching Material](https://www.youtube.com/watch?v=NCxSJXD2RHY)
+* [Building a CO2 Measuring Device with Embedded Rust](https://www.youtube.com/watch?v=HybHkK2P3yI)
 
 ## Deprecated Embedded Course
 
