@@ -22,9 +22,14 @@ This file contains a list of all public training materials maintained by Ferrous
 
 * [GOTO 2017: Why is Rust Successful?](https://www.youtube.com/watch?v=-Tj8Q12DaEQ)
 * [The Power of the "Where" Clause](https://www.youtube.com/watch?v=jSpio0x7024)
+* [HTWG Konstanz: Was steckt hinter "Concurrency without Fear"?](https://www.youtube.com/watch?v=z9EdjIK1cRs)
+* [ACCU 2018: Three Years of Rust](https://www.youtube.com/watch?v=S6vIekisOJA)
 * [GOTO 2019: Rust 2018: Access All Areas](https://www.youtube.com/watch?v=sCSfyQYDImM)
+* [RustConf 2019: Keynote](https://www.youtube.com/watch?v=FSrQX4uYuOM)
 * [`async/await` with `async-std`](https://www.youtube.com/watch?v=L7X0vpAU-sU)
+* [Rust Linz: Ownership and Borrowing from a Systems Construction PoV](https://www.youtube.com/watch?v=8bZXx2jzfpU)
 * [Async Interview #4 with Niko Matsakis](https://www.youtube.com/watch?v=Ezwd1vKSfCo)
+* [Rust interest in mission- and safety-critical environments](https://www.youtube.com/watch?v=_DM36e2A9dg)
 
 ### James Munns
 
