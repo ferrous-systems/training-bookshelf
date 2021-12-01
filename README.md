@@ -5,7 +5,7 @@ This file contains a list of all public training materials maintained by Ferrous
 ## Introduction to Rust
 
 * [Repo with assignments](https://github.com/ferrous-systems/teaching-material)
-* [Rendered Slides](ferrous-systems.github.io/teaching-material/index.html)
+* [Rendered Slides](https://ferrous-systems.github.io/teaching-material/index.html)
 
 ## Embedded Rust Courses for beginners and advanced
 
